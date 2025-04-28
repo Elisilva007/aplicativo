@@ -28,11 +28,12 @@
     <TextView
         android:id="@+id/txt1"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:background="#F44336"
+        android:layout_height="65dp"
+        android:background="#FF0000"
         android:gravity="center"
         android:padding="10dp"
-        android:text="caixa 1"
+        android:text="Dificil
+revisar logo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/txt2"
         app:layout_constraintHorizontal_bias="0.5"
@@ -42,11 +43,12 @@
     <TextView
         android:id="@+id/txt2"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:background="#F44336"
+        android:layout_height="65dp"
+        android:background="#969595"
         android:gravity="center"
         android:padding="10dp"
-        android:text="caixa 1"
+        android:text="Hesitei
+Intervalo curto"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/txt3"
         app:layout_constraintHorizontal_bias="0.5"
@@ -56,11 +58,12 @@
     <TextView
         android:id="@+id/txt3"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:background="#F44336"
+        android:layout_height="65dp"
+        android:background="#72F866"
         android:gravity="center"
         android:padding="10dp"
-        android:text="caixa 1"
+        android:text=" Bom
+Intervalo normal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/txt4"
         app:layout_constraintHorizontal_bias="0.5"
@@ -69,11 +72,12 @@
     <TextView
         android:id="@+id/txt4"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:background="#F44336"
+        android:layout_height="65dp"
+        android:background="#2196F3"
         android:gravity="center"
         android:padding="10dp"
-        android:text="caixa 1"
+        android:text="facil
+intervalo longo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
